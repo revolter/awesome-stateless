@@ -21,7 +21,7 @@ Please ensure your pull request adheres to the following guidelines:
 3. If no suitable category exists, create a new one
 4. Follow this format:
    ```
-   - [Name](URL) - Brief description of what it does and how it uses URL encoding.
+   - [Name](URL) - Brief description of what it does.
    ```
 5. Add disclaimers if you have any relationship to the project (ownership, employment, etc.)
 6. Create a pull request with a clear title and description
