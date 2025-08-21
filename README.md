@@ -23,7 +23,7 @@ The pattern is commonly used in text editors, JSON visualizers, regex testers, d
 
 ## Text Editors & Note Taking
 
-- [notepadtab.com](https://notepadtab.com) - Simple online notepad that stores your notes in the URL. *Disclaimer: Owned by the repository maintainer.*
+- [notepadtab.com](https://notepadtab.com) - A simple, secure and private note taking tool. *Disclaimer: Owned by the repository maintainer.*
 
 ## Development Tools
 
