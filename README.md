@@ -28,7 +28,6 @@ The pattern is commonly used in text editors, JSON visualizers, regex testers, d
 ## Development Tools
 
 - [Diff Viewer](https://diffviewer.vercel.app) - A privacy focused, easy sharable, open source and anonymous tracking diff viewer.
-- [JSON Crack](https://jsoncrack.com/editor) - Interactive JSON viewer and editor that stores JSON data in the URL fragment.
 - [regex101.com](https://regex101.com) - Online regex tester that encodes regex patterns, test strings, and flags in the URL.
 
 ## Utilities
