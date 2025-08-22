@@ -28,6 +28,7 @@ The pattern is commonly used in text editors, JSON visualizers, regex testers, d
 ## Development Tools
 
 - [Diff Viewer](https://diffviewer.vercel.app) - A privacy focused, easy sharable, open source and anonymous tracking diff viewer.
+- [TS Playground](https://www.typescriptlang.org/play) - The Playground lets you write TypeScript or JavaScript online in a safe and sharable way.
 
 ## Utilities
 
