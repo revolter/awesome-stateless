@@ -36,7 +36,7 @@ The pattern is commonly used in text editors, JSON visualizers, regex testers, d
 
 ## Diagramming & Visualization
 
-- [mermaid.live](https://mermaid.live) - Online Mermaid diagram editor that stores diagram definitions in the URL.
+- [Mermaid](https://mermaid.live) - JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
 - [draw.io](https://app.diagrams.net) - Online diagramming tool that can encode diagrams in the URL for sharing.
 
 ## Contributing
