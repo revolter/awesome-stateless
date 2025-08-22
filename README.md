@@ -31,7 +31,7 @@ The pattern is commonly used in text editors, JSON visualizers, regex testers, d
 
 ## Utilities
 
-- [iban.ad](https://iban.ad) - IBAN validator and formatter that stores the IBAN number in the URL. *Disclaimer: Owned by the repository maintainer.*
+- [IBAN Advertiser](https://iban.ad) - The easiest way for NGOs, freelancers, and clubs to share their bank details for donations, payments, or memberships. *Disclaimer: Owned by the repository maintainer.*
 - [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source code with all styling encoded in the URL.
 
 ## Diagramming & Visualization
