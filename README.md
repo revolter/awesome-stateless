@@ -40,7 +40,7 @@ The pattern is commonly used in text editors, JSON visualizers, regex testers, d
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](contributing.md) first.
+Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
