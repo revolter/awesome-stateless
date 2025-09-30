@@ -35,6 +35,7 @@ The pattern is commonly used in text editors, JSON visualizers, regex testers, d
 - [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source code.
 - [Generator Sesizări](https://generator-sesizari.ro) 🇷🇴 - Generator web pentru crearea și descărcarea formularelor de sesizare pentru instituții publice din România (Web generator for creating and downloading complaint forms for Romanian public institutions). *Disclaimer: Owned by the repository maintainer.*
 - [IBAN Advertiser](https://iban.ad) - The easiest way for NGOs, freelancers, and clubs to share their bank details for donations, payments, or memberships. *Disclaimer: Owned by the repository maintainer.*
+- [YouTube Card Generator](https://ytbcard.vercel.app) - Create attractive thumbnails for your YouTube videos simply by using the video URL. Customize and share your creations easily.
 
 ## Diagramming & Visualization
 
