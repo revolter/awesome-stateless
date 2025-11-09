@@ -1,0 +1,52 @@
+name: Add new entry
+description: Suggest a new stateless web application to add to the list
+title: "Add [NAME] entry"
+labels: ["new entry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Title instruction: Replace `[NAME]` in the pre-filled issue title with the exact value you enter in the `Name` field below.\
+        Example: if `Name` is `My Awesome App` then the title should be `Add My Awesome App entry`.
+
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: The name of the application
+      placeholder: e.g., "My Awesome App"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: The URL of the application
+      placeholder: e.g., "https://example.com"
+    validations:
+      required: true
+
+  - type: input
+    id: description
+    attributes:
+      label: Description
+      description: "The official description from the website's meta description (tip: search the website on Google and copy the description from search results) or from other official sources like GitHub"
+      placeholder: e.g., "An awesome tool for sharing awesome stuff."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      description: Please confirm the following
+      options:
+        - label: The application stores state/content directly in the URL
+          required: true
+        - label: The application is functional and accessible
+          required: true
+        - label: The application works without user registration
+          required: true
+        - label: I have searched and there are no duplicate entries
+          required: true
